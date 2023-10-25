@@ -1,5 +1,7 @@
+<!--- snake -->
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/Richard Demians/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <img  src="https://github.com/Eva-U2/Eva-U2/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 <div align="center" width="50">
