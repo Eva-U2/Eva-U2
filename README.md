@@ -1,14 +1,4 @@
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/Eva-U2/Eva-U2/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
 
 <div align="center">
 
