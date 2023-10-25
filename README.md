@@ -1,4 +1,4 @@
-![Richard Demians Banner](https://github.com/Eva-U2)
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Richard%20Demians%20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
