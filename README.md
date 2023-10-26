@@ -1,4 +1,4 @@
-<a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="300px" align="center" width='700' background-size="contain"/></a>
+<a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="300px" justify-content="center" width='700' background-size="contain"/></a>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
