@@ -46,11 +46,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Eva-U2">
-  <img height="120em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/>
-  <img height="120em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/>
-  <img height="120em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/>
-</a>
+
+  <a href="https://fgrefrigeracion.netlify.app/"><img height="120em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
+  <a href="https://fotones.netlify.app/"><img height="120em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
+  <a href="https://eva02.netlify.app/"><img height="120em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
+
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
