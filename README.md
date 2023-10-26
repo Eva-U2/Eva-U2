@@ -16,7 +16,7 @@
 <br>
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
+<div width= "300px">
 ### 🛠 &nbsp;Conocimientos en:
 <a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</a>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -28,7 +28,7 @@
 <br>
 <a href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
 <a href="https://code.visualstudio.com/"> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</a>
-
+</div>
 <br>
 <br>
 <br>
