@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](<img src="https://i.imgur.com/x148y6j.gif" width="500" height="400">)
+![Aditya Vikram Singh Banner](https://i.imgur.com/x148y6j.gif" width="500" height="400")
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
