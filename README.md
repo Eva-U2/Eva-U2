@@ -27,6 +27,7 @@
 <br>
 <a href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
 <a href="https://code.visualstudio.com/"> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</a>
+<a href="https://code.visualstudio.com/"> <img href="https://eva02.netlify.app/media/marcas1.png"></img></a>
 <br>
 <br>
 <br>
