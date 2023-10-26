@@ -23,10 +23,11 @@
 <br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://eva02.netlify.app/media/marcas2.png" width="50px"/></a>
-<a href="https://git-scm.com/"><img src="https://eva02.netlify.app/media/marcas8.png" width="50px"/></a>
+<a href="https://git-scm.com/"><img src="https://ahmadsalahuddeen.github.io/testwebsiteswalah/img/favicons/pngegg.png" width="50px"/></a>
 <br>
 <a href="https://github.com/"><img src="https://eva02.netlify.app/media/marcas7.png" width="50px"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://eva02.netlify.app/media/marcas4.png" width="50px"/></a>
+<a href="https://app.netlify.com/"><img src="https://eva02.netlify.app/media/marcas8.png" width="50px"/></a>
 
 <br>
 <br>
