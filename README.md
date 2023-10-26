@@ -37,7 +37,7 @@
   <a href="https://fotones.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
   <a href="https://eva02.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
 </p>
-
+<br>
 ### 🤝🏻 &nbsp;Contáctate conmigo
 
 <p align="center">
@@ -47,6 +47,7 @@
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+<br>
 
 -----
 <img alt="Night Coding" src="https://i.pinimg.com/originals/13/b2/fb/13b2fb4d9866d4e1611edd6e667af31e.gif" align="left"/>
