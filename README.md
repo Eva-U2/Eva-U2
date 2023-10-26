@@ -1,4 +1,4 @@
-<img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="400px" align="center" background-size="cover";/>
+<img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="400px" align="center" background-size="cover"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
