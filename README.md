@@ -1,5 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<link rel="stylesheet" type="text/css" href="https://github.com/Eva-U2/Eva-U2/blob/main/style.css">  
+</head>
 <body>
-<link rel="stylesheet" type="text/css" href="https://github.com/Eva-U2/Eva-U2/blob/main/style.css">
 <a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="350px" position="center" width='900' /></a>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
@@ -59,3 +64,4 @@ Credits: [Richard Demians](https://github.com/Eva-U2)
 
 Last Edited on: 25/10/2023
 </body>
+</html>
