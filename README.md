@@ -6,7 +6,7 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies, learn quickly and adapt easily to work groups.\
+💡 &nbsp;I like to explore new technologies, I learn quickly and I adapt easily to work groups.
 🎓 &nbsp;I'm currently studying Desarrollo web at the University of Avellaneda.\
 🌱 &nbsp;I'm on my way to learning more about fullstack web development, artificial intelligence, and database.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and APP Development as hobbies/side hustles.\
