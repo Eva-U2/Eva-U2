@@ -19,7 +19,7 @@
 ### 🛠 &nbsp;Conocimientos en:
 <a href="https://www.python.org/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://eva02.netlify.app/media/marcas3.png" width="50px"/>
-<a href="https://react.dev/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/>
+<a href="https://react.dev/"><img src="https://th.bing.com/th/id/OIP.LECOR40UUExKc3u85pD_BwHaHA?pid=ImgDet&rs=1" width="50px"/>
 <br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://eva02.netlify.app/media/marcas2.png" width="50px"/></a>
