@@ -5,7 +5,7 @@
 <!-- ## 👋 &nbsp;Hola, soy Richard -->
 <br>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mí
 💡 &nbsp;Me gusta explorar nuevas tecnologías, aprendo rápido y me adapto fácilmente a grupos de trabajo.\
 🎓 &nbsp;Actualmente estoy estudiando Desarrollo web en la Universidad de Avellaneda.\
 🌱 &nbsp;Estoy en camino de aprender más sobre desarrollo web fullstack, inteligencia artificial y bases de datos.\
