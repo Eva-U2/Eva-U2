@@ -47,9 +47,9 @@
 
 <p align="center">
 
-  <a href="https://fgrefrigeracion.netlify.app/"><img height="140em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
-  <a href="https://fotones.netlify.app/"><img height="140em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
-  <a href="https://eva02.netlify.app/"><img height="140em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
+  <a href="https://fgrefrigeracion.netlify.app/"><img height="130em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
+  <a href="https://fotones.netlify.app/"><img height="130em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
+  <a href="https://eva02.netlify.app/"><img height="130em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
 
 </p>
 
