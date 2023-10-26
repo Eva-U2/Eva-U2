@@ -31,14 +31,14 @@
 <br>
 <br>
 
-### ⚙️ &nbsp;Mis Trabajos Realizados
+### ⚙️ &nbsp;Mis Trabájos Realizados
 <p align="center">
   <a href="https://fgrefrigeracion.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
   <a href="https://fotones.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
   <a href="https://eva02.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/EVA-02.jpeg"/></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contáctate conmigo
 
 <p align="center">
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
