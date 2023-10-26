@@ -53,5 +53,6 @@
 <div align="right">
  <p> Credits: <a href="https://github.com/Eva-U2">[Richard Demians]</a></p>
  <p> Last Edited on: 25/10/2023 </p>
+ <p> E-MAIL: <a href="mailto:richard.demians@gmail.com">richard.demians@gmail.com</a></p>
 </div>
 
