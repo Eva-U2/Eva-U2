@@ -17,15 +17,15 @@
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Conocimientos en:
-<a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50px" margin="30px"/></a>
-<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://eva02.netlify.app/media/marcas3.png" width="40px" margin="30px"/>
-<a href="https://react.dev/"><img src="https://www.alltechbuzz.net/wp-content/uploads/2020/05/word-image-2-472x420.png" width="50px" margin="30px"/>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px" margin="30px"/></a>
-<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://eva02.netlify.app/media/marcas2.png" width="50px" margin="30px"/></a>
-<a href="https://git-scm.com/"><img src="https://ahmadsalahuddeen.github.io/testwebsiteswalah/img/favicons/pngegg.png" width="50px" margin="30px"/></a>
-<a href="https://github.com/"><img src="https://eva02.netlify.app/media/marcas7.png" width="50px" margin="30px"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://eva02.netlify.app/media/marcas4.png" width="50px" margin="30px"/></a>
-<a href="https://app.netlify.com/"><img src="https://eva02.netlify.app/media/marcas8.png" width="50px" margin="30px"/></a>
+<a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50px" padding="30px"/></a>
+<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://eva02.netlify.app/media/marcas3.png" width="40px" padding="30px"/>
+<a href="https://react.dev/"><img src="https://www.alltechbuzz.net/wp-content/uploads/2020/05/word-image-2-472x420.png" width="50px" padding="30px"/>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px" padding="30px"/></a>
+<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://eva02.netlify.app/media/marcas2.png" width="50px" padding="30px"/></a>
+<a href="https://git-scm.com/"><img src="https://ahmadsalahuddeen.github.io/testwebsiteswalah/img/favicons/pngegg.png" width="50px" padding="30px"/></a>
+<a href="https://github.com/"><img src="https://eva02.netlify.app/media/marcas7.png" width="50px" padding="30px"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://eva02.netlify.app/media/marcas4.png" width="50px" padding="30px"/></a>
+<a href="https://app.netlify.com/"><img src="https://eva02.netlify.app/media/marcas8.png" width="50px" padding="30px"/></a>
 
 <br>
 <br>
