@@ -39,7 +39,7 @@
 </p>
 <br>
 ### 🤝🏻 &nbsp;Contáctate conmigo
-
+<br>
 <p align="center">
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
