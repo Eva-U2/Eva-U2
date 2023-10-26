@@ -44,10 +44,10 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 <br>
 <br>
+<br>
 ### ⚙️ &nbsp;Mis Trabajos Realizados
 
 <p align="center">
-<br>
 <br>
   <a href="https://fgrefrigeracion.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
   <a href="https://fotones.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
