@@ -1,8 +1,4 @@
-<video>
-<source src="VF5-EVA02.mp4">
-</video>
-
-<div align="center">
+![Aditya Vikram Singh Banner](https://eva02.netlify.app/media/imgs/EVA-02.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
