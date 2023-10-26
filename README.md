@@ -1,9 +1,4 @@
-body {
-  background-image: url('https://i.pinimg.com/originals/13/b2/fb/13b2fb4d9866d4e1611edd6e667af31e.gif');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
+<link rel="stylesheet" type="text/css" href="enlace">
 <a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="350px" position="center" width='900' /></a>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
