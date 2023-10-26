@@ -3,8 +3,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Richard -->
+<br>
 
-### 👨🏻‍💻 &nbsp;About Me <br>
+### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Desarrollo web at the University of Avellaneda.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Backend Development.\
