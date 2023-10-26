@@ -5,7 +5,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Richard -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<br>
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Desarrollo web at the University of Avellaneda.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Backend Development.\
