@@ -17,7 +17,7 @@
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Conocimientos en:
-<a href="https://www.python.org/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
+<a href="https://www.python.org/"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50px"/></a>
 <a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://eva02.netlify.app/media/marcas3.png" width="50px"/>
 <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/Eva-U2/Eva-U2/main/REACT.png" width="50px"/>
 <br>
