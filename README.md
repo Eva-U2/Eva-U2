@@ -1,3 +1,4 @@
+<body>
 <link rel="stylesheet" type="text/css" href="style.css">
 <a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="RICHARD-DEMIANS.jpg" height="350px" position="center" width='900' /></a>
 
@@ -57,3 +58,4 @@
 Credits: [Richard Demians](https://github.com/Eva-U2)
 
 Last Edited on: 25/10/2023
+</body>
