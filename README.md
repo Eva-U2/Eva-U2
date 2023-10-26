@@ -32,6 +32,7 @@
 <br>
 
 ### ⚙️ &nbsp;Mis Trabájos Realizados
+<br>
 <p align="center">
   <a href="https://fgrefrigeracion.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FG-REFRIGERACION.jpeg"/></a>
   <a href="https://fotones.netlify.app/"><img height="133em" src="https://eva02.netlify.app/media/imgs/FOTONES.jpeg"/></a>
