@@ -6,13 +6,13 @@
 <br>
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies, I learn quickly and I adapt easily to work groups.\
-🎓 &nbsp;I'm currently studying Desarrollo web at the University of Avellaneda.\
-🌱 &nbsp;I'm on my way to learning more about fullstack web development, artificial intelligence, and database.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and APP Development as hobbies/side hustles.\
-💬 &nbsp;Feel free to contact me to learn more about my technological skills, capabilities or simply see the different jobs I have done.\
-✉️ &nbsp;You can shoot me an email at richard.demians@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://github.com/Eva-U2) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;Me gusta explorar nuevas tecnologías, aprendo rápido y me adapto fácilmente a grupos de trabajo.\
+🎓 &nbsp;Actualmente estoy estudiando Desarrollo web en la Universidad de Avellaneda.\
+🌱 &nbsp;Estoy en camino de aprender más sobre desarrollo web fullstack, inteligencia artificial y bases de datos.\
+✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y al desarrollo de aplicaciones como pasatiempos/actividades secundarias.\
+💬 &nbsp;No dudes en contactarme para conocer más sobre mis habilidades tecnológicas, capacidades o simplemente ver los diferentes trabajos que he realizado.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a richard.demians@gmail.com! Intentaré responder tan pronto como pueda.\
+📄 &nbsp;Por favor, echa un vistazo a mi [Perfil](https://github.com/Eva-U2) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 <br>
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
