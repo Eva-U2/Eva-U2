@@ -17,16 +17,16 @@
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 ### 🛠 &nbsp;Conocimientos en:
-<a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</a>
-<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript">![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<a href="https://react.dev/">![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<a href="https://www.python.org/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
+<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/>
+<a href="https://react.dev/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/>
 <br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
-<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"> ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;</a>
+<a href="https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;</a>
 <br>
-<a href="https://github.com/">![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;</a>
-<a href="https://code.visualstudio.com/"> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;</a>
+<a href="https://github.com/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://eva02.netlify.app/media/marcas1.png" width="50px"/></a>
 
 <br>
 <br>
