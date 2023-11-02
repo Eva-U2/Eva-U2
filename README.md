@@ -11,7 +11,7 @@
 🌱 &nbsp;Hacemos desarrollo web fullstack, diseño Grafico,edición de audio y video.\
 ✍️ &nbsp;También desarrollamos aplicaciones según las necesidades del cliente.\
 💬 &nbsp;No dudes en contactarnos para conocer más sobre nuestras habilidades tecnológicas, capacidades o simplemente ver los diferentes trabajos que hemos realizado.\
-✉️ &nbsp;¡Puedes enviarnos un correo electrónico a proyectoeva2@gmail.com! Intentaré responder tan pronto como pueda.\
+✉️ &nbsp;¡Puedes enviarnos un correo electrónico a proyectoeva2@gmail.com! IntentarEMOS responder tan pronto como sea posible.\
 📄 &nbsp;Por favor, echa un vistazo a NUESTRO [Perfil](https://github.com/Eva-U2) para más detalles sobre EVA-02. ¡EstAMOS abiertoS a comentarios y sugerencias!
 <br>
 <br>
