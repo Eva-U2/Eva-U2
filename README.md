@@ -54,7 +54,7 @@
 -----
 <img alt="Night Coding" src="https://i.pinimg.com/originals/13/b2/fb/13b2fb4d9866d4e1611edd6e667af31e.gif" align="left"/>
 <div align="right">
- <p> Creditos: <a href="https://github.com/Eva-U2">[Richard Demians]</a></p>
+ <p> Creditos: <a href="https://github.com/Richard-Demians">[Richard Demians]</a></p>
  <p> Ultima edicion 25/10/2023 </p>
  <p> E-MAIL: <a href="mailto:richard.demians@gmail.com">richard.demians@gmail.com</a></p>
 </div>
