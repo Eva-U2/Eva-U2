@@ -1,6 +1,6 @@
 <a href="https://eva02.netlify.app/"><img alt="EVA-02" src="EVA-02.jpeg" height="350px" position="center" width='900' /></a>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey this it  EVA-O2</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola esto es EVA-02</h2>
 
 <!-- ## 👋 &nbsp;Hola, esto es EVA-02 -->
 <br>
