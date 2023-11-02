@@ -43,11 +43,11 @@
 ### 🤝🏻 &nbsp;Contáctate con nosotros
 <br>
 <p align="center">
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:richard.demians@gmail.com"><img src="https://img.shields.io/badge/-EVA-02-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:proyectoeva2@gmail.com"><img src="https://img.shields.io/badge/-Richard Demians-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <br>
 
