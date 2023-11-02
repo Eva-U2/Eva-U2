@@ -1,18 +1,18 @@
-<a href="https://github.com/Eva-U2"><img alt="Richard Demians" src="EVA-02.jpeg" height="350px" position="center" width='900' /></a>
+<a href="https://eva02.netlify.app/"><img alt="EVA-02" src="EVA-02.jpeg" height="350px" position="center" width='900' /></a>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Richard</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey this it  EVA-O2</h2>
 
-<!-- ## 👋 &nbsp;Hola, soy Richard -->
+<!-- ## 👋 &nbsp;Hola, esto es EVA-02 -->
 <br>
 
-### 👨🏻‍💻 &nbsp;Acerca de mí
-💡 &nbsp;Me gusta explorar nuevas tecnologías, aprendo rápido y me adapto fácilmente a grupos de trabajo.\
-🎓 &nbsp;Actualmente estoy estudiando Desarrollo web en la Universidad de Avellaneda.\
-🌱 &nbsp;Estoy en camino de aprender más sobre desarrollo web fullstack, inteligencia artificial y bases de datos.\
-✍️ &nbsp;En mi tiempo libre, me dedico al diseño gráfico y al desarrollo de aplicaciones como pasatiempos/actividades secundarias.\
-💬 &nbsp;No dudes en contactarme para conocer más sobre mis habilidades tecnológicas, capacidades o simplemente ver los diferentes trabajos que he realizado.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a richard.demians@gmail.com! Intentaré responder tan pronto como pueda.\
-📄 &nbsp;Por favor, echa un vistazo a mi [Perfil](https://github.com/Eva-U2) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+### 👨🏻‍💻 &nbsp;Acerca de EVA-02
+💡 &nbsp;Eva 02 es una Empresa creada por Richard Demians Cúyo fin es dar presencia en internet a pequeñas marcas de comerciantes y artistas.\
+🎓 &nbsp;Actualmente estamos en expanción, rumbo a abarcar mas areas del mercado.\
+🌱 &nbsp;Hacemos desarrollo web fullstack, diseño Grafico,edición de audio y video.\
+✍️ &nbsp;También desarrollamos aplicaciones según las necesidades del cliente.\
+💬 &nbsp;No dudes en contactarnos para conocer más sobre nuestras habilidades tecnológicas, capacidades o simplemente ver los diferentes trabajos que hemos realizado.\
+✉️ &nbsp;¡Puedes enviarnos un correo electrónico a proyectoeva2@gmail.com! Intentaré responder tan pronto como pueda.\
+📄 &nbsp;Por favor, echa un vistazo a NUESTRO [Perfil](https://github.com/Eva-U2) para más detalles sobre EVA-02. ¡EstAMOS abiertoS a comentarios y sugerencias!
 <br>
 <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -40,14 +40,14 @@
 </p>
 <br>
 
-### 🤝🏻 &nbsp;Contáctate conmigo
+### 🤝🏻 &nbsp;Contáctate con nosotros
 <br>
 <p align="center">
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:richard.demians@gmail.com"><img src="https://img.shields.io/badge/-Richard Demians-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-Richard Demians-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:richard.demians@gmail.com"><img src="https://img.shields.io/badge/-EVA-02-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/Eva-U2"><img src="https://img.shields.io/badge/-EVA-02-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <br>
 
